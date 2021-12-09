@@ -124,3 +124,4 @@
 /Users/burabury/Dev/E3/PlatformService/obj/Debug/net6.0/ref/PlatformService.dll
 /Users/burabury/Dev/E3/PlatformService/obj/Debug/net6.0/PlatformService.pdb
 /Users/burabury/Dev/E3/PlatformService/obj/Debug/net6.0/PlatformService.genruntimeconfig.cache
+/Users/burabury/Dev/E3/PlatformService/bin/Debug/net6.0/appsettings.Production.json
